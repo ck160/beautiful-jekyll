@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "sobre mi"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -40,7 +40,7 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Some Person
-  email: "youremail@domain.com"
+  email: "cdpc2000@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
@@ -52,9 +52,9 @@ footer-links-active:
   rss: false
   facebook: true
   email: true
-  twitter: true
-  github: true
-  linkedin: false
+  twitter: false
+  github: false
+  linkedin: flase
   stackoverflow: false
 
 # How to display the link to the website in the footer
@@ -72,7 +72,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Spain"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
