@@ -54,7 +54,7 @@ footer-links-active:
   email: true
   twitter: false
   github: false
-  linkedin: flase
+  linkedin: false
   stackoverflow: false
 
 # How to display the link to the website in the footer
@@ -76,7 +76,7 @@ timezone: "Europe/Spain"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 25
 
 kramdown:
   input: GFM
