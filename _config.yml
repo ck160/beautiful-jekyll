@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-    Proyecto:
+  Proyecto:
     - El entorno: "http://ck160.github.io/2016-06-02-Situacion/"
     - Viviendas: ""
     - Colaboradores: ""
