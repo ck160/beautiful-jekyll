@@ -28,7 +28,7 @@ navbar-links:
     - Viviendas: ""
     - Colaboradores: ""
   Créditos: "aboutme"
-  Fotos & Videos: "http://jvm-tienda.synology.me/photo/?t=Albums/album_30322050726f796563746f2043686f7573656c6173#Albums/album_30322050726f796563746f2043686f7573656c6173"
+  Fotos & Videos: "https://github.com/ck160/ck160.github.io/blob/master/_posts/fyv.md"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
