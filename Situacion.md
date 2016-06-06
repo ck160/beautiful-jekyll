@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre mi
+title: Ubicación de la finca
 subtitle: El entorno
 ---
 
