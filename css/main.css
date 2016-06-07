@@ -39,6 +39,11 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
+#foot {
+  font-size: 24px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(121,149,117);
+}
 
 .main-content {
   padding-top: 80px;
