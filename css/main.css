@@ -8,14 +8,6 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
-}
-.hero {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 18px;
-  color: #404040;
-  position: relative;
-  background: #FFF;
-}
 p {
   line-height: 1.5;
   margin: 30px 0;
