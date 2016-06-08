@@ -6,7 +6,7 @@ subtitle: Fotos de la finca
 
 Esta es la situación de la finca en Google Maps
 
-[link](https://www.google.es/maps/@43.1805418,-8.2503188,2801m/data=!3m1!1e3)
+[Google Maps](https://www.google.es/maps/@43.1805418,-8.2503188,2801m/data=!3m1!1e3)
 
 Unas cuantas fotos del entorno y de la propia finca:
 
