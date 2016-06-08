@@ -12,3 +12,5 @@ Realizamos también trabajos de mantenimiento de software para empresas y progra
 
 Nos puedes contactar a través de correo electrónico en cdpc2000@gmail.com. También a través de móvil en el número 655 04 25 85.
 
+### Copyright <p>&copy; 2016 CD&PC</p>
+
