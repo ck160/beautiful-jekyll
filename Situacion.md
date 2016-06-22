@@ -10,4 +10,4 @@ La tranquilidad y el sosiego son sus características más importantes, aún as�
 
 La parcela tiene más de 2000 metros cuadrados urbanos, y una finca rústica de más de 4000. Se pueden construir hasta tres viviendas.
 
-![image](https://github.com/ck160/ck160.github.io/blob/master/img/Finca%201.png?raw=true)
+![image](https://scontent.fmad3-2.fna.fbcdn.net/t31.0-8/13475046_636453076502574_8629359438076571_o.jpg)
