@@ -3,6 +3,10 @@ layout: page
 title: Ubicación de la finca
 subtitle: El entorno
 ---
+<style> 
+        p {font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        }
+</style>
 
 Ubicada en el ayuntamiento de Cesuras, Carres es una pequeña parroquia situada en la zona rural de la provincia de A Coruña.
 
