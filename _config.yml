@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   Proyecto:
     - El entorno: "Situacion"
-    - Viviendas: "vivienda"
+    - Viviendas: "vivienda.md"
     - Colaboradores: ""
   Créditos: "aboutme"
   Fotos del entorno: "fyv"
