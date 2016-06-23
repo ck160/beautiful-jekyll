@@ -26,5 +26,6 @@ subtitle: Fotos del entorno
 
 
 <p>Esta es la situación de la finca en Google Maps<p/>
+
 [Google Maps](http://www.google.es/maps/@43.1805418,-8.2503188,2801m/data=!3m1!1e3)
 
