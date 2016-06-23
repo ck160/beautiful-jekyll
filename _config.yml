@@ -24,9 +24,8 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   Proyecto:
-    - El entorno: "Situacion"
+    - Parcelas: "Situacion"
     - Viviendas: "vivienda"
-    - Colaboradores: ""
   Créditos: "aboutme"
   Fotos del entorno: "fyv"
 
