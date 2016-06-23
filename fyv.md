@@ -25,7 +25,6 @@ subtitle: Fotos del entorno
 ![image](https://scontent.fmad3-2.fna.fbcdn.net/t31.0-8/13503093_636680313146517_2806657207917491162_o.jpg)
 
 
-<p>Esta es la situación de la finca en Google Maps
-
-[Google Maps](https://www.google.es/maps/@43.1805418,-8.2503188,2801m/data=!3m1!1e3)</p>
+<p>Esta es la situación de la finca en Google Maps<p/>
+[Google Maps](http://www.google.es/maps/@43.1805418,-8.2503188,2801m/data=!3m1!1e3)
 
