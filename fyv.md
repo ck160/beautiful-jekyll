@@ -8,21 +8,21 @@ subtitle: Fotos del entorno
         }
 </style>
 
-![image](https://scontent.fmad3-2.fna.fbcdn.net/t31.0-8/13522922_636680273146521_1169646539455579203_o.jpg)
+![image](https://github.com/ck160/ck160.github.io/blob/master/img/entorno1.jpg?raw=true)
 
-![image](https://scontent.fmad3-2.fna.fbcdn.net/t31.0-8/13502669_636680196479862_9147680382895093656_o.jpg)
+![image](https://github.com/ck160/ck160.github.io/blob/master/img/entorno2.jpg?raw=true)
 
-![image](https://scontent.fmad3-2.fna.fbcdn.net/t31.0-8/13475229_636680316479850_6287856348614175044_o.jpg)
+![image](https://github.com/ck160/ck160.github.io/blob/master/img/entorno3.jpg?raw=true)
 
-![image](https://scontent.fmad3-2.fna.fbcdn.net/t31.0-8/13495668_636680199813195_2371231125338183163_o.jpg)
+![image](https://github.com/ck160/ck160.github.io/blob/master/img/entorno4.jpg?raw=true)
 
-![image](https://scontent.fmad3-2.fna.fbcdn.net/t31.0-8/13503008_636680226479859_7216382731796471878_o.jpg)
+![image](https://github.com/ck160/ck160.github.io/blob/master/img/entorno5.jpg?raw=true)
 
-![image](https://scontent.fmad3-2.fna.fbcdn.net/t31.0-8/13490762_636680233146525_3279040535791243843_o.jpg)
+![image](https://github.com/ck160/ck160.github.io/blob/master/img/entorno6.jpg?raw=true)
 
-![image](https://scontent.fmad3-2.fna.fbcdn.net/t31.0-8/13482883_636680229813192_6008694268030219476_o.jpg)
+![image](https://github.com/ck160/ck160.github.io/blob/master/img/entorno7.jpg?raw=true)
 
-![image](https://scontent.fmad3-2.fna.fbcdn.net/t31.0-8/13503093_636680313146517_2806657207917491162_o.jpg)
+![image](https://github.com/ck160/ck160.github.io/blob/master/img/entorno8.jpg?raw=true)
 
 
 <p>Esta es la situación de la finca en Google Maps<p/>
